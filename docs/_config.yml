@@ -1,5 +1,5 @@
 # uncomment to preview locally
-theme: "dendron-jekyll"
+# theme: "dendron-jekyll"
 # color_scheme: dark
 remote_theme: dendronhq/dendron-jekyll
 title: Dendron

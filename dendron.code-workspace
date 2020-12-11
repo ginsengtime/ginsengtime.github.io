@@ -1,12 +1,12 @@
 {
     "folders": [
-      {
-        "path": "vault"
-      },
-      {
-        "name": "ginsengtime.github.io",
-        "path": "ginsengtime.github.io"
-      }
+        {
+            "path": "vault"
+        },
+        {
+            "name": "ginsengtime.github.io",
+            "path": "ginsengtime.github.io"
+        }
     ],
     "settings": {
         "dendron.rootDir": ".",

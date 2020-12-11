@@ -1,7 +1,7 @@
 ---
 id: 32f7e843-edab-496e-88da-5b79b1fe5e0a
-title: '2020.12.10'
-desc: 'making some progress in metacognition'
+title: 2020.12.10
+desc: making some progress in metacognition
 updated: 1607653430121
 created: 1607650145036
 ---

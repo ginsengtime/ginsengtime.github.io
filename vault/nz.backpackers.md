@@ -1,6 +1,6 @@
 ---
 id: cb6439ac-2bd3-4537-8f52-bd2bc5808a28
-title: Gig Economy 
+title: Gig Economy
 desc: ''
 updated: 1607449439194
 created: 1607402702355

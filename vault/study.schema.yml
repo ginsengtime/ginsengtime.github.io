@@ -1,0 +1,16 @@
+version: 1
+imports: []
+schemas:
+  - id: study
+    title: study
+    children:
+      - sources
+      - synthesis
+      - questions
+      - topics
+    parent: root
+    namespace: true
+  - id: sources
+  - id: synthesis
+  - id: questions
+  - id: topics

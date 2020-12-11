@@ -1,0 +1,282 @@
+{"0": {
+    "doc": "Inbox",
+    "title": "work through these, hun",
+    "hpath": "inbox",
+    "content": ". | https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/ . | i’ve read it now i have to process it | . | Tom Critchlow’s Gardens wiki page | “You Learn” by Borges | . ",
+    "url": "http://localhost:4000/notes/0a1149e1-1716-410f-8776-d7e0e6cd568b.html#work-through-these-hun",
+    "relUrl": "/notes/0a1149e1-1716-410f-8776-d7e0e6cd568b.html#work-through-these-hun"
+  },"1": {
+    "doc": "Inbox",
+    "title": "Inbox",
+    "hpath": "inbox",
+    "content": " ",
+    "url": "http://localhost:4000/notes/0a1149e1-1716-410f-8776-d7e0e6cd568b.html",
+    "relUrl": "/notes/0a1149e1-1716-410f-8776-d7e0e6cd568b.html"
+  },"2": {
+    "doc": "Tech",
+    "title": "Tech",
+    "hpath": "tech",
+    "content": " ",
+    "url": "http://localhost:4000/notes/0dbee657-ec4b-46cf-b640-ee1501d64fb5.html",
+    "relUrl": "/notes/0dbee657-ec4b-46cf-b640-ee1501d64fb5.html"
+  },"3": {
+    "doc": "2020.12.06",
+    "title": "2020.12.06",
+    "hpath": "journal.2020.12.06",
+    "content": "Um. Okay. Let’s do this. Dendron, take 1. I guess it’s sort of fitting that I’m using a tool named after the very part of me that’s screaming at me not to do this. That’s not very profound, is it? Every person who’s ever used this tool has plenty of dendrons, screaming and otherwise. I’m scatterbrained to hell with the attention span of a sparrow. Or a goldfish. Actually, goldfish have decent attention spans. Maybe a squirrel? Anyways, it’s pretty short. And I’ve been on this weird kick lately about reclaiming the Web, Web 3.0, going offline-online, taking some of the tech out of tech. I’m a rather analogue person, but I find myself looking at screens a lot recently since I’m at home right now after a little COVID scare detained me. And I guess I find my mind darting from here to there, so what better way to sate her than to imbue some semblance of organization at 85 wpm? I do love to write; I can hardly bring myself to use a tablet and pen, because they lack the tactile experience of paper. But in times like these, when my attention cannot rest, it is perhaps better to use two hands instead of one. Dendron will be — already is — another rabbit hole. From the cookbook to its features, all the way down to relearning Vim bindings, I’m already spending more time thinking about it than engaging with it. Maybe that’s for the best. But also. Gotta just. Use it. No matter how messy it ends up. The advantage over paper being the ease of erasing fucky paragraphs or pages, restructuring links, straight-up deleting this whole folder. But the thinking… is it not kind of nice? (oh shit that markdown syntax highlighting caught me off guard. you can’t see it, or maybe you can, but wow. neat) It’s like If On A Winter’s Night A Traveler ^(lmao I should make a link to that one day WHAT IF)^, the allure of endless beginnings before you’re all bogged down by STUFF, by the plot and the characters and worrying about who dies. It’s just a fresh book with that glue smell, crisp pages that make your fingers feel a little dusty, and words you know so well in a combination completely alien to you. And it ROCKS. Right off the top of my head I’m trying to think of what the HELL pages I want in this thing: . | articles to read . | although i have Pocket for that? but maybe having that stuff here will help keep me accountable idk (I’m becoming more unhinged as this goes on. perfect.) | . | Zettelkasten? Although high-key I’ve been on a weird binge of info-organization techniques/systems/paradigms today and I’m so EXHAUSTED of white men manifesto-ing at me with ~minimal webpages~ talmbout how to dump my brains on paper. fuck em. | altho i do see the validity in that system. it’s kinda cute bc this is a hierarchical system (i am a hierarchical brain) while also having that slick backlinking capability. we stan dual linearity and nonlinearity. non-euclidean gang | . | general study stuff (not languages, I need to write those by HAND for my LANGUAGE PROCESSING CENTER) . | racialism (sean palmer) . | who the fuck refuses to self identify as Black? I want to understand | . | mysticism? . | honestly idek why i’m watchin all these lectures on ibn arabi and stuff — I’m not really into mysticism, i’m literally agnostic. and yet something of it is so fascinating to me, that they take these pantheistic, hellenistic worldviews and philosophies and adapt them to islam? kinda baller | also the idea of learning shit for a Purpose and not just because it’s Cool »»»&gt; so I’ll type up stuff if i WANT | also also general north african/middle eastern history. i really just want a firm and overly solid foundation on which to build my understanding of tuareg culture lakmlgjlkjf | . | lo-tech life notes (thi is an OFFLINE service it counts as lo-tech fuck! off! (dunno who’s supposed to be fucking off but!!)) | probably WON’T follow up on this but fusion and food? identity and food? I just finished Edward Lee’s Buttermilk Graffiti today (for The Box) and parts of his philosophy on food needing to leave its origins to “evolve” and shit didn’t sit well w me. But I dunno if that’s because I’m full of RiGhTeOuS aNgEr or if I’m just smooth-brained when it comes to the fluidity of cuisine as a cultural artifact | black radical thought!!! . | black feminists (bell hooks, davis, ashata shakur) | black marxists | but also black moderates like I want a diversity of thought ya feel? | BLASIANS??? | . | zainichi shit . | lowkey my passion for that area of study has cooled somewhat because of the massive roadblocks when it comes to societal change. but ALSO i think being on the ground there and seeing that community will help me remember what it’s all for. | zainichi artists? like visual artists beyond simply literature | also documentaries, like the one that lady sent us IT’S OFFLINE SOON GO GO GO | . | . | considering I have my paper journal and Paper is Life, I see the journal function of Dendron serving more as a brain dump when i’m at my laptop, or when I have lots and LOTS of thoughts to vomit in a very little time. pressure cooker lid and all. but that’s still a use! | . Uh. So. Ultimately I am still trying to mediate my analogue and digital tendencies. I want to learn more CS stuff so I can build dope shit but I can’t focus atm. Maybe this will help be a repo for my studying? . I say that like thrice a year tho and never actually build anything. Started my Neocities, tho, which is somethign. Installed a CLI today bc I want to be a Real Developer and edit Locally and then Push to the Server using my Command Line chokes . also u know what is hilarious. i just fucked off for about 15 minutes trying to figure out why superscript wasn’t showing up in the preview. html tags are the way. anyways. (side note (within a side note)) these block quotes slap. And if not for studying, at least it will be something To Do and a record that I did NOT, in fact, simply lie down and take it when my anxiety said girl. i’m coming for u. X . ",
+    "url": "http://localhost:4000/notes/0f67179e-c741-4f07-9fd2-e3f98a3659ef.html",
+    "relUrl": "/notes/0f67179e-c741-4f07-9fd2-e3f98a3659ef.html"
+  },"4": {
+    "doc": "2020",
+    "title": "2020",
+    "hpath": "journal.2020",
+    "content": " ",
+    "url": "http://localhost:4000/notes/113aa617-c889-448b-817b-84328025cc0e.html",
+    "relUrl": "/notes/113aa617-c889-448b-817b-84328025cc0e.html"
+  },"5": {
+    "doc": "Spatial",
+    "title": "Spatial",
+    "hpath": "tech.spatial",
+    "content": " ",
+    "url": "http://localhost:4000/notes/29c8fa06-9f5a-47ed-b3ba-44113787edee.html",
+    "relUrl": "/notes/29c8fa06-9f5a-47ed-b3ba-44113787edee.html"
+  },"6": {
+    "doc": "Living",
+    "title": "Links",
+    "hpath": "living",
+    "content": ". | Andy’s Notes . | evergreen notes: how do we transfer that to a notebook format? | . | . ",
+    "url": "http://localhost:4000/notes/3120d470-0c92-4c91-bafc-bdb07fc682c5.html#links",
+    "relUrl": "/notes/3120d470-0c92-4c91-bafc-bdb07fc682c5.html#links"
+  },"7": {
+    "doc": "Living",
+    "title": "Living",
+    "hpath": "living",
+    "content": " ",
+    "url": "http://localhost:4000/notes/3120d470-0c92-4c91-bafc-bdb07fc682c5.html",
+    "relUrl": "/notes/3120d470-0c92-4c91-bafc-bdb07fc682c5.html"
+  },"8": {
+    "doc": "2020.12.10",
+    "title": "good mythical morning (it’s 8pm)",
+    "hpath": "journal.2020.12.10",
+    "content": "So I was thinking of bees earlier (10 minutes ago). And I thought, hey. wouldn’t it be neat if i had a section on beekeeping in my uhhh knowledge base. So that of COURSE got me thinkg okay but how would i integrate that into my uhhh knowledge base. ",
+    "url": "http://localhost:4000/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#good-mythical-morning-its-8pm",
+    "relUrl": "/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#good-mythical-morning-its-8pm"
+  },"9": {
+    "doc": "2020.12.10",
+    "title": "dendron",
+    "hpath": "journal.2020.12.10",
+    "content": "make like bees.md and there’s your shit. bees.hive, bees.troubleshootin, bees.food or some shit. or just bees w headings for shit (amoeba baby) . ",
+    "url": "http://localhost:4000/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#dendron",
+    "relUrl": "/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#dendron"
+  },"10": {
+    "doc": "2020.12.10",
+    "title": "tiddly",
+    "hpath": "journal.2020.12.10",
+    "content": "if i wanna do it just like mr andy i’d make my person meander over toward beekeeping. my person being me (local) or not me (hosted elsewhere). and like okay, kinda cute if they’re wending through “welcome to my kitchen” and end up at “ideal hive structure and materials” they’d be like uhm. what the fuck? otherwise i’d sorta do like ‘tis now and have the categories on the front page for organization purposes . ",
+    "url": "http://localhost:4000/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#tiddly",
+    "relUrl": "/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#tiddly"
+  },"11": {
+    "doc": "2020.12.10",
+    "title": "bluedot",
+    "hpath": "journal.2020.12.10",
+    "content": "(i honestly don’t even know what else to call it www) again, just make a category for beekeeping and slap those babies in there. interestingly enough, i’d have to sort of put my own structure into it since it’s only got two levels of categories, right? categor(y/ies) &gt; entry (with optional external URLs). ",
+    "url": "http://localhost:4000/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#bluedot",
+    "relUrl": "/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#bluedot"
+  },"12": {
+    "doc": "2020.12.10",
+    "title": "analysis",
+    "hpath": "journal.2020.12.10",
+    "content": "so you get what I see? the way I sort of look at things, my knowledge naturally separates into topics. i just like it like that. and so in, say, andy m’s or nesslab’s structure, you just sort of jump in which is like AHHHH because I want to know where i’m entering the stream! so i’ve made a small step in figuring out that yes, i def want categories. which is also kinda funny bc all the systems i’ve explored so far are based on hierarchy, or i’ve moved in that direction from the start. so i guess this isn’t really a profound revelation but still. neat! . ",
+    "url": "http://localhost:4000/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#analysis",
+    "relUrl": "/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html#analysis"
+  },"13": {
+    "doc": "2020.12.10",
+    "title": "2020.12.10",
+    "hpath": "journal.2020.12.10",
+    "content": " ",
+    "url": "http://localhost:4000/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html",
+    "relUrl": "/notes/32f7e843-edab-496e-88da-5b79b1fe5e0a.html"
+  },"14": {
+    "doc": "Journal",
+    "title": "Journal",
+    "hpath": "journal",
+    "content": ". | 2020.12.06 | . From journal.2020.12.06 Go to text → Um. Okay. Let’s do this. Dendron, take 1. I guess it’s sort of fitting that I’m using a tool named after the very part of me that’s screaming at me not to do this. That’s not very profound, is it? Every person who’s ever used this tool has plenty of dendrons, screaming and otherwise. I’m scatterbrained to hell with the attention span of a sparrow. Or a goldfish. Actually, goldfish have decent attention spans. Maybe a squirrel? Anyways, it’s pretty short. And I’ve been on this weird kick lately about reclaiming the Web, Web 3.0, going offline-online, taking some of the tech out of tech. I’m a rather analogue person, but I find myself looking at screens a lot recently since I’m at home right now after a little COVID scare detained me. And I guess I find my mind darting from here to there, so what better way to sate her than to imbue some semblance of organization at 85 wpm? I do love to write; I can hardly bring myself to use a tablet and pen, because they lack the tactile experience of paper. But in times like these, when my attention cannot rest, it is perhaps better to use two hands instead of one. Dendron will be — already is — another rabbit hole. From the cookbook to its features, all the way down to relearning Vim bindings, I’m already spending more time thinking about it than engaging with it. Maybe that’s for the best. But also. Gotta just. Use it. No matter how messy it ends up. The advantage over paper being the ease of erasing fucky paragraphs or pages, restructuring links, straight-up deleting this whole folder. But the thinking… is it not kind of nice? (oh shit that markdown syntax highlighting caught me off guard. you can’t see it, or maybe you can, but wow. neat) It’s like If On A Winter’s Night A Traveler ^(lmao I should make a link to that one day WHAT IF)^, the allure of endless beginnings before you’re all bogged down by STUFF, by the plot and the characters and worrying about who dies. It’s just a fresh book with that glue smell, crisp pages that make your fingers feel a little dusty, and words you know so well in a combination completely alien to you. And it ROCKS. Right off the top of my head I’m trying to think of what the HELL pages I want in this thing: . | articles to read . | although i have Pocket for that? but maybe having that stuff here will help keep me accountable idk (I’m becoming more unhinged as this goes on. perfect.) | . | Zettelkasten? Although high-key I’ve been on a weird binge of info-organization techniques/systems/paradigms today and I’m so EXHAUSTED of white men manifesto-ing at me with ~minimal webpages~ talmbout how to dump my brains on paper. fuck em. | altho i do see the validity in that system. it’s kinda cute bc this is a hierarchical system (i am a hierarchical brain) while also having that slick backlinking capability. we stan dual linearity and nonlinearity. non-euclidean gang | . | general study stuff (not languages, I need to write those by HAND for my LANGUAGE PROCESSING CENTER) . | racialism (sean palmer) . | who the fuck refuses to self identify as Black? I want to understand | . | mysticism? . | honestly idek why i’m watchin all these lectures on ibn arabi and stuff — I’m not really into mysticism, i’m literally agnostic. and yet something of it is so fascinating to me, that they take these pantheistic, hellenistic worldviews and philosophies and adapt them to islam? kinda baller | also the idea of learning shit for a Purpose and not just because it’s Cool »»»&gt; so I’ll type up stuff if i WANT | also also general north african/middle eastern history. i really just want a firm and overly solid foundation on which to build my understanding of tuareg culture lakmlgjlkjf | . | lo-tech life notes (thi is an OFFLINE service it counts as lo-tech fuck! off! (dunno who’s supposed to be fucking off but!!)) | probably WON’T follow up on this but fusion and food? identity and food? I just finished Edward Lee’s Buttermilk Graffiti today (for The Box) and parts of his philosophy on food needing to leave its origins to “evolve” and shit didn’t sit well w me. But I dunno if that’s because I’m full of RiGhTeOuS aNgEr or if I’m just smooth-brained when it comes to the fluidity of cuisine as a cultural artifact | black radical thought!!! . | black feminists (bell hooks, davis, ashata shakur) | black marxists | but also black moderates like I want a diversity of thought ya feel? | BLASIANS??? | . | zainichi shit . | lowkey my passion for that area of study has cooled somewhat because of the massive roadblocks when it comes to societal change. but ALSO i think being on the ground there and seeing that community will help me remember what it’s all for. | zainichi artists? like visual artists beyond simply literature | also documentaries, like the one that lady sent us IT’S OFFLINE SOON GO GO GO | . | . | considering I have my paper journal and Paper is Life, I see the journal function of Dendron serving more as a brain dump when i’m at my laptop, or when I have lots and LOTS of thoughts to vomit in a very little time. pressure cooker lid and all. but that’s still a use! | . Uh. So. Ultimately I am still trying to mediate my analogue and digital tendencies. I want to learn more CS stuff so I can build dope shit but I can’t focus atm. Maybe this will help be a repo for my studying? . I say that like thrice a year tho and never actually build anything. Started my Neocities, tho, which is somethign. Installed a CLI today bc I want to be a Real Developer and edit Locally and then Push to the Server using my Command Line chokes . also u know what is hilarious. i just fucked off for about 15 minutes trying to figure out why superscript wasn’t showing up in the preview. html tags are the way. anyways. (side note (within a side note)) these block quotes slap. And if not for studying, at least it will be something To Do and a record that I did NOT, in fact, simply lie down and take it when my anxiety said girl. i’m coming for u. X . ",
+    "url": "http://localhost:4000/notes/4036dae8-4e4a-4a26-9733-6b297c531548.html",
+    "relUrl": "/notes/4036dae8-4e4a-4a26-9733-6b297c531548.html"
+  },"15": {
+    "doc": 404,
+    "title": "404",
+    "hpath": null,
+    "content": "Page not found . ",
+    "url": "http://localhost:4000/404.html#404",
+    "relUrl": "/404.html#404"
+  },"16": {
+    "doc": 404,
+    "title": 404,
+    "hpath": null,
+    "content": " ",
+    "url": "http://localhost:4000/404.html",
+    "relUrl": "/404.html"
+  },"17": {
+    "doc": "Art",
+    "title": "Art",
+    "hpath": "tag.art",
+    "content": " ",
+    "url": "http://localhost:4000/notes/42a48e20-119a-440b-a4be-4981182ebab8.html",
+    "relUrl": "/notes/42a48e20-119a-440b-a4be-4981182ebab8.html"
+  },"18": {
+    "doc": "Cool-stuff-list",
+    "title": "Resource lists",
+    "hpath": "tech.cool-stuff-list",
+    "content": ". | Book of Secret Knowledge | Digital Garden Resources (cross-linked in Digital Gardens Examples) | Awesome Knowledge Management | . ",
+    "url": "http://localhost:4000/notes/6d32f4fd-97b2-4c2e-b30f-7d2cc2f98340.html#resource-lists",
+    "relUrl": "/notes/6d32f4fd-97b2-4c2e-b30f-7d2cc2f98340.html#resource-lists"
+  },"19": {
+    "doc": "Cool-stuff-list",
+    "title": "HTML/CSS resources",
+    "hpath": "tech.cool-stuff-list",
+    "content": ". | Easing (Tiny Tools) | . ",
+    "url": "http://localhost:4000/notes/6d32f4fd-97b2-4c2e-b30f-7d2cc2f98340.html#htmlcss-resources",
+    "relUrl": "/notes/6d32f4fd-97b2-4c2e-b30f-7d2cc2f98340.html#htmlcss-resources"
+  },"20": {
+    "doc": "Cool-stuff-list",
+    "title": "Cool-stuff-list",
+    "hpath": "tech.cool-stuff-list",
+    "content": " ",
+    "url": "http://localhost:4000/notes/6d32f4fd-97b2-4c2e-b30f-7d2cc2f98340.html",
+    "relUrl": "/notes/6d32f4fd-97b2-4c2e-b30f-7d2cc2f98340.html"
+  },"21": {
+    "doc": "Article",
+    "title": "Article",
+    "hpath": "tag.article",
+    "content": "check backlinks . ",
+    "url": "http://localhost:4000/notes/7c526272-8110-46a2-b1ff-cb09765161ec.html",
+    "relUrl": "/notes/7c526272-8110-46a2-b1ff-cb09765161ec.html"
+  },"22": {
+    "doc": "New Zealand",
+    "title": "…",
+    "hpath": "nz",
+    "content": " ",
+    "url": "http://localhost:4000/notes/a296e0a4-55a4-4fdc-b8c2-02c66dc6cfd3.html",
+    "relUrl": "/notes/a296e0a4-55a4-4fdc-b8c2-02c66dc6cfd3.html"
+  },"23": {
+    "doc": "New Zealand",
+    "title": "New Zealand",
+    "hpath": "nz",
+    "content": "From nz.backpackers Go to text → ! Backpackers?[^1] . Anthony Gardiner for The Guardian . | Stuart Nash (minister of tourism): ban renting of vans to “Freedom Campers” . | unsanitary | takes away from economy (sleeping in van instead of campgrounds) | “value over volume” — but WHERE does money from “high-value” tourists go? | . | pre-COVID: ~70,000 working visa visitors; ~75,000 on student visas . | longer stays | diverse jobs AND spending | “marketing” (omg my trip to new zealand ~changed me~) | visits from family and friends (more spending) | future visits for nostalgia | accounted for almost 14% of workforce in 2019 | . | Three P’s of business sustainability: People, Planet, Profit | Missing data . | environmental impact of long vs. short-term | cultural engagements during stay | . !article . | . ! Questions… . | has mr nash simply. not considered the relative value of each kind of tourist? who’s his research team? | what spurred this remark? [^2] | I also wonder about the numbers that would back up Gardiner’s claim. but i also don’t rly feel like searching rn klasjlgkaj | i do agree them vans be nasty as hell tho. definitely a continuation of the trend of ecological destruction from higher tourism. [^1]: Anthony Gardiner, “Are Backpackers Really Less Valuable to New Zealand than Those with More Money?” . [^2]: Disagreement over plan to attract high-value tourists, RNZ, 19 Nov 2020 . | . ",
+    "url": "http://localhost:4000/notes/a296e0a4-55a4-4fdc-b8c2-02c66dc6cfd3.html",
+    "relUrl": "/notes/a296e0a4-55a4-4fdc-b8c2-02c66dc6cfd3.html"
+  },"24": {
+    "doc": "Pb's second brain",
+    "title": "Welcome",
+    "hpath": "root",
+    "content": "Here’s my virtual garden/exobrain/external SSD. See below for topics, which contain various articles, notes, images, etc. Dab on em. Local preview: bundle exec jekyll s . ",
+    "url": "http://localhost:4000/#welcome",
+    "relUrl": "/#welcome"
+  },"25": {
+    "doc": "Pb's second brain",
+    "title": "wanna learn about….",
+    "hpath": "root",
+    "content": ". | working holiday economy in new zealand | lo-tech high life | tech as experience | . ",
+    "url": "http://localhost:4000/#wanna-learn-about",
+    "relUrl": "/#wanna-learn-about"
+  },"26": {
+    "doc": "Pb's second brain",
+    "title": "Pb's second brain",
+    "hpath": "root",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"27": {
+    "doc": "12",
+    "title": "12",
+    "hpath": "journal.2020.12",
+    "content": " ",
+    "url": "http://localhost:4000/notes/af8f2575-2184-4526-adf8-7765daa7b97e.html",
+    "relUrl": "/notes/af8f2575-2184-4526-adf8-7765daa7b97e.html"
+  },"28": {
+    "doc": "Book",
+    "title": "Book",
+    "hpath": "tag.book",
+    "content": " ",
+    "url": "http://localhost:4000/notes/b6387d29-54a6-42a7-aae3-a73455d42539.html",
+    "relUrl": "/notes/b6387d29-54a6-42a7-aae3-a73455d42539.html"
+  },"29": {
+    "doc": "Reading Well",
+    "title": "Reading Well",
+    "hpath": "living.reading-well",
+    "content": " ",
+    "url": "http://localhost:4000/notes/bb372f91-d1b2-46d8-8339-6bc061194677.html",
+    "relUrl": "/notes/bb372f91-d1b2-46d8-8339-6bc061194677.html"
+  },"30": {
+    "doc": "Meta",
+    "title": "Meta",
+    "hpath": "tag.meta",
+    "content": "check backlinks for meta pages. thankssss . ",
+    "url": "http://localhost:4000/notes/c2f4cfdc-b680-4d62-8881-0463857112b6.html",
+    "relUrl": "/notes/c2f4cfdc-b680-4d62-8881-0463857112b6.html"
+  },"31": {
+    "doc": "Gig Economy",
+    "title": "Gig Economy",
+    "hpath": "nz.backpackers",
+    "content": "! Backpackers?[^1] . Anthony Gardiner for The Guardian . | Stuart Nash (minister of tourism): ban renting of vans to “Freedom Campers” . | unsanitary | takes away from economy (sleeping in van instead of campgrounds) | “value over volume” — but WHERE does money from “high-value” tourists go? | . | pre-COVID: ~70,000 working visa visitors; ~75,000 on student visas . | longer stays | diverse jobs AND spending | “marketing” (omg my trip to new zealand ~changed me~) | visits from family and friends (more spending) | future visits for nostalgia | accounted for almost 14% of workforce in 2019 | . | Three P’s of business sustainability: People, Planet, Profit | Missing data . | environmental impact of long vs. short-term | cultural engagements during stay | . !article . | . ! Questions… . | has mr nash simply. not considered the relative value of each kind of tourist? who’s his research team? | what spurred this remark? [^2] | I also wonder about the numbers that would back up Gardiner’s claim. but i also don’t rly feel like searching rn klasjlgkaj | i do agree them vans be nasty as hell tho. definitely a continuation of the trend of ecological destruction from higher tourism. [^1]: Anthony Gardiner, “Are Backpackers Really Less Valuable to New Zealand than Those with More Money?” . [^2]: Disagreement over plan to attract high-value tourists, RNZ, 19 Nov 2020 . | . ",
+    "url": "http://localhost:4000/notes/cb6439ac-2bd3-4537-8f52-bd2bc5808a28.html",
+    "relUrl": "/notes/cb6439ac-2bd3-4537-8f52-bd2bc5808a28.html"
+  },"32": {
+    "doc": "Screen As Room",
+    "title": "Screen As Room[^1]",
+    "hpath": "tech.spatial.screenasroom",
+    "content": "Christoph Labacher . | :link: John Palmer essays | “space as model”: spatial qualities (overlapping windows) code/dictate relationships, interactions | “subjective and metaphoric properties of rooms”; focusing on the manmade, constructed aspect of rooms rather than static, blank spaces | interfaces as children of architecture rather than film — the difference? Agency. | choice to move through a space (screens), experience piecemeal at your own discretion | . | . | Sense of Agency . | Le Corbusier’s Promenade: a composed architectural experience considered from various angles | Emphasis on the experience of passing through a space | “options for possibilities of action” have all been considered, framed, and constructed | . | Sense of Proportion . | devs can make a site feel large or small, as architects can make a space feel cozy or spacious | . | Sense of Protection . | boundary or enclosure? | (im)permeability of that barrier between this “room” and the outside. smaller and easier to work with, but risk not being able to scale (not sure what he means) | “Rhetorical boundaries”: implied boundaries . | how do these manifest in digital spaces? | . | . | Base for Customization . | adaptability and longevity of buildings… in digital space? :thinking: adaptive reuse? | “how adaptable … are our interfaces?” . | the Windows phone example, balancing clarity (grid) with customization (your order) | . | :link: End User Programming | . | A Shared Space . Proxemics nonverbal communication through the use of space Social Presence Theory transmission of social cues through various media; indicators of presence e.g. “Online” status, cursor position, etc . | space as an entire medium for communication (think closing the door when you want privacy) | room as Agent! A sense of Place is created through habit, use, and play; the room becomes a player | . | Shaper of Behavior . | we swiftly understand the constraints on our actions in a new software or environment; a good dev ensures they feel like logical trains of thought/behavior, not constraints | . Place a space permeated by social norms. Highly ritualized.[^2] Nudge theory spatial order of objects can influence interactions (salad bar at the front of the line) | Purposefully Articulated Space . | “dev-built” house, software meets needs piecemeal rather than holistically. thus the whole is not harmoniously composed | great design can only occur when many questions/problems are neglected in favor of a handful? Forced simplicity results in oversimplification. […] Where simplicity cannot work, simpleness results. Blatant simplification means bland architecture. Less is a bore.[^3] . | . | . #article . [^1]: “Screen As Room: An Architectural Perspective on User Interfaces,” Christoph Labacher, accessed December 8, 2020, https://www.christophlabacher.com/notes/screen-as-room. [^2]: David Kolb, “Real Places in Virtual Spaces,” Nordic Journal of Architectural Research, Nordic Association for Architectural research, 19, no. 3 (2006). [^3]:Robert Venturi, 1966: “Complexity and Contradiction in Architecture” [p. 17] . ",
+    "url": "http://localhost:4000/notes/cc480ed0-1a42-424b-9165-48907604ea33.html#screen-as-room1",
+    "relUrl": "/notes/cc480ed0-1a42-424b-9165-48907604ea33.html#screen-as-room1"
+  },"33": {
+    "doc": "Screen As Room",
+    "title": "Screen As Room",
+    "hpath": "tech.spatial.screenasroom",
+    "content": " ",
+    "url": "http://localhost:4000/notes/cc480ed0-1a42-424b-9165-48907604ea33.html",
+    "relUrl": "/notes/cc480ed0-1a42-424b-9165-48907604ea33.html"
+  },"34": {
+    "doc": "Digital Gardens",
+    "title": "“Building a Digital Garden.”",
+    "hpath": "tech.digital-gardens",
+    "content": ". | background reading | flow (the Stream) and stock (what stays) . | balance of open communication (flow) and background content/bigger projects (stock) | . | blogging as “performative thinking” | hierarchical structure (ey): all content on a subject in its own folder | . ",
+    "url": "http://localhost:4000/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#building-a-digital-garden",
+    "relUrl": "/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#building-a-digital-garden"
+  },"35": {
+    "doc": "Digital Gardens",
+    "title": "“Of Digital Streams, Campfires and Gardens.”",
+    "hpath": "tech.digital-gardens",
+    "content": "“Technopastoral” by Mike Caulfield? . Streams “fast twitch information discovery” Twitter etc. Cool connections, but growth is only an undercurrent Campfires “slower burn but fade relatively quickly over… years.” Blogs and other spaces where you form connections, think, relate concepts Gardens wikis — somewhere you can curate and enjoy not simply for what it is, but for the myriad connections you form every time you walk through and see it from new angles (tech as space??? girl!) ",
+    "url": "http://localhost:4000/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#of-digital-streams-campfires-and-gardens",
+    "relUrl": "/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#of-digital-streams-campfires-and-gardens"
+  },"36": {
+    "doc": "Digital Gardens",
+    "title": "mikecaulfield, “The Garden and the Stream.”",
+    "hpath": "tech.digital-gardens",
+    "content": ". | federated wikis — social information/info “de-streamed” the excitement here is in building complexity, not reducing it . | collecting/connecting information NOT for the sake of an argument (initially) but, more importantly, to develop more nuanced understanding . | the garden as both a microcosm of the world you met and a mirror of the self | emergent behaviors of information? can complex information networks exhibit surprising emergent qualities? … did i just rediscover A.I. and machine learning oops :P a “found haiku” called Haiku by a Robot (“710,711,712”), #art . | . our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected . Um I’m a bit suspicious of this bit. I think the web as conversation is a perfectly fine way of doing things, though the current form of conversation predominant on the Web today is pretty superficial sometimes. I think his idea is… what, people intentionally sharing their personal study notes and being better for it? But what good are those personal connections if we cannot converse about them? perhaps i’m misunderstanding. | READ http://www.eastgate.com/garden/ (Mark Bernstein 1998) The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another. (bernstein) . | did someone say “web as space?” It’s not that you are passive in the Stream. You can be active. But your actions in there … exist in a context that is collapsed down to a simple timeline of events that together form a narrative. … Rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center. (emphasis mine) . | resist all u want but Stream-modeled experiences (twitter,fb,most social media) is going to sweep you away. shit’s a temporal rather than spatial experience (relate to native/indigenous conceptions of place vs time) . | READ: Vannevar Bush “As We May Think” (1945) . | Memex = commonplace book lowkey. collating copies of annotatable info relevant to your own interests and studies + your own notes? that’s literally a commonplace aid bye . | losing my mind suddenly realizing these folks are all just chasing commonplace books wheeze | . ",
+    "url": "http://localhost:4000/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#mikecaulfield-the-garden-and-the-stream",
+    "relUrl": "/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#mikecaulfield-the-garden-and-the-stream"
+  },"37": {
+    "doc": "Digital Gardens",
+    "title": "Digital Garden examples",
+    "hpath": "tech.digital-gardens",
+    "content": ". | bluedot | Maggie Appleton’s Garden Directory (also has many garden resources — cross-linked in Cool-stuff-list) | Andy Matsuchak’s Commonplace (I’ve modeled my TiddlyWiki after his) | . ",
+    "url": "http://localhost:4000/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#digital-garden-examples",
+    "relUrl": "/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html#digital-garden-examples"
+  },"38": {
+    "doc": "Digital Gardens",
+    "title": "Digital Gardens",
+    "hpath": "tech.digital-gardens",
+    "content": " ",
+    "url": "http://localhost:4000/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html",
+    "relUrl": "/notes/d4fbd06d-01a9-4585-9b46-0d4e3efe51b3.html"
+  },"39": {
+    "doc": "Thought",
+    "title": "Thought",
+    "hpath": "tag.thought",
+    "content": " ",
+    "url": "http://localhost:4000/notes/f7f501fd-81e4-40a2-a21a-78133a449601.html",
+    "relUrl": "/notes/f7f501fd-81e4-40a2-a21a-78133a449601.html"
+  }
+}

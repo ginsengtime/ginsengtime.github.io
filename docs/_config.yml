@@ -1,7 +1,7 @@
 # uncomment to preview locally
-theme: "dendron-jekyll"
+#theme: "dendron-jekyll"
 color_scheme: dark
-#remote_theme: dendronhq/dendron-jekyll
+remote_theme: dendronhq/dendron-jekyll
 title: Dendron
 logo: "/assets/images/logo.png"
 exclude: [ "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "*/dendron.template.release.md"

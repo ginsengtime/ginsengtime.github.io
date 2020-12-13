@@ -2,9 +2,11 @@
 id: 4c625e03-9f76-4ffd-a950-5c54447fca5f
 title: Cognition
 desc: 'amoeba'
-updated: 1607835927155
+updated: 1607836264575
 created: 1607834530154
 ---
+
+# Embodied and Extended Cognition
 
 Embodied cognition
 : cognitive processes taking place in the body but outside the brain. Example: octopus arms have their own neurons
@@ -29,14 +31,18 @@ Ref:
 
 ___
 
+# Case study: spiderwebs as extended cognition apparati
+
 HOT TAKE: spiderwebs are an instance of extended cognition. ie webs are cognitive apparati that serve as sensory organs, of a sort, for the spider.
 
 - Animal cognition strategies
   - embodied (octopus)
   - specialized senses (UV vision)
   - structures outside neural system (spiders?)
+    
     - ❓ are there examples of non-neuronal info processing in other species? I feel like it can't be that rare...
     - is, say, the cane used by a vision-impaired person an example?
+
 ❓ What is the difference between a tool and an extended cognition apparatus?
 - According to Japyassú, cognition = acquiring, manipulating, and storing info. Critics say cognition must also include _interpretation_ of that information into an "abstract, meaningful representation of the world."
   - smells like centering of the intellect to me, boss
